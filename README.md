@@ -1,6 +1,6 @@
-# Ilorin News Headline Scraper
+# News Headline Scraper
 
-A small Python script that fetches an Ilorin.info news article and prints its
+A small Python script that fetches an info news article and prints its
 `<h2>` headings that do not contain links.
 
 ## Requirements
